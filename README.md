@@ -3,4 +3,4 @@ Written this first python automation tool for general purpose like searching in 
 # Requirements
 1. pyaudio (pip install pyaudio)
 2. SpeechRecognition (pip install SpeechRecognition)
-3. 
+3. selenium (pip install selenium)

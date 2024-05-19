@@ -7,6 +7,6 @@ Written this first python automation tool for general purpose like searching in 
 3. selenium (pip install selenium)
 
 # Problem
-If running the script gives the "ModuleNotFoundError: No module named 'distutils'" error message, then install the "setuptools" module and you are good to go.
-Here run the command below.
+If running the script gives the "ModuleNotFoundError: No module named 'distutils'" error message, then install the "setuptools" module and you are good to go.\\
+Here run the command below.\\
 pip install setuptools
